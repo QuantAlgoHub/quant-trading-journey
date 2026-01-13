@@ -85,5 +85,19 @@ Building algorithmic trading systems from scratch | Documenting the complete jou
 **Tomorrow:** Complete Part 3 (ternary operators) + Hour 2 (loops for portfolio analysis)
 
 ---
+#### Day 5: Control Flow - Ternary Operators (Day 4 Part 3) ✅
+**Date:** January 8, 2026  
+**Time:** 1 hour  
+**Topics Covered:**
+- Ternary operator syntax for quick conditionals
+- RSI signal generation with one-liners
+- Portfolio action decisions (buy/sell flags)
+- Trade execution triggers (stop loss, take profit)
+- Dynamic position sizing based on volatility
+- Win/loss trade classification
+- Account status health checks
+- Stock rating system with multiple criteria
 
-*Following a systematic roadmap to build trading, consulting, and SaaS income streams over 4-6 years.*
+**Files:** `day4_conditionals.py` (completed)
+
+**Key Learning:** Ternary operators make code cleaner for simple decisions. Use for quick classification and flag setting. Syntax: `result = value_if_true if condition else value_if_false`
