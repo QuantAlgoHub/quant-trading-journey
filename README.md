@@ -101,3 +101,17 @@ Building algorithmic trading systems from scratch | Documenting the complete jou
 **Files:** `day4_conditionals.py` (completed)
 
 **Key Learning:** Ternary operators make code cleaner for simple decisions. Use for quick classification and flag setting. Syntax: `result = value_if_true if condition else value_if_false`
+
+
+### Week 3: Loops & Iterations
+**Goal:** Master loop structures for processing trading data and portfolio analysis
+
+#### Day 6: Loop Fundamentals ✅
+- **Date:** January 20, 2026
+- **Topics:**
+  - For loops: Daily returns calculation, portfolio valuation
+  - While loops: Stop-loss simulation with exit conditions
+  - Enumerate: Day numbering for account tracking
+  - Maximum drawdown: Risk metric calculation
+- **Key Learning:** Drawdown = most important risk metric. A strategy with 20% return but 40% drawdown is worse than 15% return with 5% drawdown.
+- **Code:** `week3_day1_loops.py`
