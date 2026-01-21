@@ -115,3 +115,20 @@ Building algorithmic trading systems from scratch | Documenting the complete jou
   - Maximum drawdown: Risk metric calculation
 - **Key Learning:** Drawdown = most important risk metric. A strategy with 20% return but 40% drawdown is worse than 15% return with 5% drawdown.
 - **Code:** `week3_day1_loops.py`
+
+#### Day 7:** Range-based & while loops  & Nested loops for multi-asset analysis
+  - Trading day simulations with range()
+  - Dollar-cost averaging (DCA) calculators
+  - Price alert systems with while loops
+  - Trailing stop-loss implementation
+  
+** Nested loops for multi-asset analysis
+  - Multi-stock performance scanners
+  - Portfolio correlation analysis
+  - Automated rebalancing calculations
+  - Risk-based position sizing across multiple stocks
+** Practical Applications:**
+  - Comparing multiple stocks simultaneously
+  - Finding correlated assets (diversification check)
+  - Rebalancing to target allocations
+  - Calculating position sizes based on risk
