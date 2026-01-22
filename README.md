@@ -132,3 +132,12 @@ Building algorithmic trading systems from scratch | Documenting the complete jou
   - Finding correlated assets (diversification check)
   - Rebalancing to target allocations
   - Calculating position sizes based on risk
+  
+  
+#### Day 8 :** Loop control & optimization
+  - `break` statement for early exits (profit targets, stop-losses)
+  - `continue` statement for filtering (volume, missing data)
+  - Loop `else` clause for search scenarios
+  - Circuit breakers and performance optimization
+  - **4 practice exercises:** Drawdown monitor, data cleaner, winner scanner, multi-filter system
+
